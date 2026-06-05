@@ -1,5 +1,5 @@
 # rpg_game
-A simple console-based RPG project built in Python to practice Object-Oriented Programming (OOP) concepts.
+A simple console-based RPG project built in Python to practice Object-Oriented Programming (OOP) concepts
 
 ## Features
 
