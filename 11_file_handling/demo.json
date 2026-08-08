@@ -1,6 +1,5 @@
-[
-    1,
-    2,
-    3,
-    4
-]
+{
+    "name": "kunal dubey",
+    "age": 29,
+    "gender": "male"
+}
